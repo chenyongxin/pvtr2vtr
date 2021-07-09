@@ -1,0 +1,6 @@
+<VTKFile type="Collection" version="0.1" byte_order="LittleEndian">
+<Collection>
+<DataSet timestep="  1.585924" group="" part="0" file="fluid_0000/collection.pvtr"/>
+<DataSet timestep="  3.265087" group="" part="0" file="fluid_0001/collection.pvtr"/>
+</Collection>
+</VTKFile>
